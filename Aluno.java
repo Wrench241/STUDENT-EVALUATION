@@ -16,12 +16,5 @@ public class Aluno {
         System.out.print("nota 3: ");
         aluno.nota3 = sc.nextDouble();
         aluno.calcule();
-        
-
-        
-
-
-
-
     }
 }
